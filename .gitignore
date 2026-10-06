@@ -1,0 +1,14 @@
+# Rebuilt automatically from docs/ on first run
+vector_db/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Gradio
+.gradio/

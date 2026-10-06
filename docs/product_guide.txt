@@ -1,0 +1,9 @@
+Acme Cloud Product Guide
+
+Uploading files: Drag files into the web dashboard or use the desktop sync app. The maximum single file size is 50 GB on Pro and 5 GB on Starter.
+
+Sharing: Any file or folder can be shared with a link. Links can be password-protected and set to expire after 1, 7, or 30 days.
+
+Version history: Acme Cloud keeps previous versions of every file. Starter keeps 7 days of history; Pro and Enterprise keep 180 days.
+
+Deleting data: Deleted files go to the Trash and are permanently removed after 30 days.
